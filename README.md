@@ -1,5 +1,5 @@
 # swc_test
-The test repo from swc April 2022
+The publication test repo from swc April 2022
 
 ## Abstract
 Useful contribution
