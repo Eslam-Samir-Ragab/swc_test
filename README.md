@@ -1,5 +1,5 @@
 # swc_test
-test repo from swc 2022
+A publication repo from the software carpentry 2022
 
 ## Abstract
 Useful contribution
